@@ -121,7 +121,7 @@ Integrated IT Infrastructure Labs
 
 </div>
 
-🤝 Connect With Me
+<h3>🤝 Connect With Me</h3> <p> 📱 <a href="tel:+201271085685">+20 127 108 5685</a> &nbsp; | &nbsp; 💼 <a href="https://www.linkedin.com/in/abdelhamid-deghidy/" target="_blank">LinkedIn</a> </p>
 
 <div align="center">
 
